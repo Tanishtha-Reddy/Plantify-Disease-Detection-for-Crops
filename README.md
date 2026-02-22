@@ -14,6 +14,18 @@ We trained a **MobileNetV2** model (transfer learning) using **PyTorch** on Goog
 - **Team**: Collaborative effort by 5 contributors
 
 ## Results:
+- The training accuracy is 95.40% due to the fine-tuning, and the validation accuracy is 97.05%
+- The training loss and validation loss are 0.1368 and 0.0914, respectively.
 
-()
+  ![](https://github.com/Tanishtha-Reddy/Plantify-Disease-Detection-for-Crops/blob/main/resullts/resultspng.png)
+
+- Here are a few outputs:
+
+    ![](https://github.com/Tanishtha-Reddy/Plantify-Disease-Detection-for-Crops/blob/main/resullts/bacterial_leaf.PNG)
+    ![](https://github.com/Tanishtha-Reddy/Plantify-Disease-Detection-for-Crops/blob/main/resullts/healthy_leaf.PNG)
+    ![](https://github.com/Tanishtha-Reddy/Plantify-Disease-Detection-for-Crops/blob/main/resullts/blight_leaf.PNG)
+
+
+  
+  
 
